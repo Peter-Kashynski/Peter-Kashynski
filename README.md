@@ -11,11 +11,9 @@ I'm a Junior Developer with experience in Python and JavaScript. I enjoy buildin
 
 ## Projects
 
-- Trading Card Marketplace
-- Built a secure e-commerce platform using Flask and SQLAlchemy with full user authentication, dynamic listings, and real-time search. Integrated Stripe for secure payments, and implemented a normalized PostgreSQL database to manage users, transactions, and inventory. The front end was developed with Bootstrap for responsive design.
+- Trading Card Marketplace - Built a secure e-commerce platform using Flask and SQLAlchemy with full user authentication, dynamic listings, and real-time search. Integrated Stripe for secure payments, and implemented a normalized PostgreSQL database to manage users, transactions, and inventory. The front end was developed with Bootstrap for responsive design.
 
-- NFL Predictor
-- Developed a predictive analytics tool using real NFL data scraped with BeautifulSoup. Built linear and logistic regression models in Scikit-Learn that achieved predictions within 5 points of actual outcomes 81% of the time. Presented results through a clean and responsive web interface using HTML and CSS.
+- NFL Predictor - Developed a predictive analytics tool using real NFL data scraped with BeautifulSoup. Built linear and logistic regression models in Scikit-Learn that achieved predictions within 5 points of actual outcomes 81% of the time. Presented results through a clean and responsive web interface using HTML and CSS.
 
 - See the pinned Projects folder for my best work!
 
